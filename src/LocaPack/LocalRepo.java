@@ -14,7 +14,7 @@ public class LocalRepo {
         String danger = "be careful";
         String lucky =" you are a lucky dude";
         if(colour.equalsIgnoreCase("red")){
-            System.out.println("my favourite colours is: "+ colour+ " and you better  " +danger);
+            System.out.println("my favourite colours is "+ colour+ " and you better  " +danger);
         }else{
             System.out.println("my favourite colours is: "+ colour);
 
